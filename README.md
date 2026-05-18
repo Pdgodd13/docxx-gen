@@ -1,1 +1,1 @@
-# docxx-gen
+# docx-generator
